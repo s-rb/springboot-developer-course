@@ -1,2 +1,5 @@
 server:
   port: 8090
+application:
+  locked: true
+  version: 1.0
